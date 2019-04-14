@@ -11,7 +11,7 @@ body {
 .white {
   color: white;
   text-shadow: 5px 5px 5px black;
-  font-size: 1.6em;
+  font-size: 2em;
 }
 
 .season {
@@ -35,6 +35,6 @@ body {
 .yosemite {
   color: rgba(255, 255, 255, 0.842);
   text-shadow: 3px 3px 3px black;
-  font-family: "Impact";
+  font-family: "Times New Roman";
   font-size: .85em;
 }

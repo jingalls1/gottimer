@@ -40,7 +40,7 @@ export default class App extends React.Component {
             height="40"
           />
         </a>
-        <br/>
+        <br />
         <a href="https://fontmeme.com/game-of-thrones-font/">
           <img
             src="https://fontmeme.com/permalink/190414/63fb69d3a6a03b392c36fc128d308473.png"
@@ -51,7 +51,13 @@ export default class App extends React.Component {
         </a>
         <br style={{ lineHeight: "5" }} />
         <div className="season"> Season 8 Episode 1</div>
-        <div className="episode">"Episode Title TBA"</div>
+        <div>
+          <img src="http://i.imgur.com/MAOay7V.png" height="90" />
+          <img src="https://i.imgur.com/NggooP0.png" height="90" />
+          <span className="episode">"Episode Title TBA"</span>
+          <img src="http://i.imgur.com/AU1SENm.png" height="100" />
+          <img src="http://i.imgur.com/DSj7dEF.png" height="85" />
+        </div>
         <br style={{ lineHeight: "2" }} />
         <div className="white">
           <span style={{ fontWeight: "bold" }}>{days}</span> days &nbsp;
