@@ -14,7 +14,27 @@ body {
   font-size: 1.6em;
 }
 
+.season {
+  color: white;
+  text-shadow: 4px 4px 4px black;
+  font-size: 1.1em;
+}
+
 .title {
   color: white;
   text-shadow: 2px 2px 2px black;
+  font-weight: bold;
+}
+
+.episode {
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  font-family: "Times New Roman";
+}
+
+.yosemite {
+  color: rgba(255, 255, 255, 0.842);
+  text-shadow: 3px 3px 3px black;
+  font-family: "Impact";
+  font-size: .85em;
 }
