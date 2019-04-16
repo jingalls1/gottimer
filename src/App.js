@@ -32,7 +32,7 @@ export default class App extends React.Component {
         <br style={{ lineHeight: "5" }} />
         <div className="title">alright y'all, episode 2 is coming</div>
         <br style={{ lineHeight: "3" }} />
-        <a href="https://fontmeme.com/game-of-thrones-font/">
+        <a href="https://www.refinery29.com/en-us/2019/04/229889/is-bran-stark-night-king-theory-why-game-of-thrones">
           <img
             src="https://fontmeme.com/permalink/190414/9c428af13e849ebeaf654eac74ddd240.png"
             alt="game-of-thrones-font"
@@ -41,7 +41,7 @@ export default class App extends React.Component {
           />
         </a>
         <br />
-        <a href="https://fontmeme.com/game-of-thrones-font/">
+        <a href="https://www.refinery29.com/en-us/2019/04/229889/is-bran-stark-night-king-theory-why-game-of-thrones">
           <img
             src="https://fontmeme.com/permalink/190414/63fb69d3a6a03b392c36fc128d308473.png"
             alt="game-of-thrones-font"
