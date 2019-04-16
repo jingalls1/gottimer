@@ -30,7 +30,7 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <br style={{ lineHeight: "5" }} />
-        <div className="title">alright y'all, episode 2 is coming</div>
+        <div className="title">alright yall, episode 2 is coming</div>
         <br style={{ lineHeight: "3" }} />
         <a href="https://www.refinery29.com/en-us/2019/04/229889/is-bran-stark-night-king-theory-why-game-of-thrones">
           <img
