@@ -21,7 +21,7 @@ export default class App extends React.Component {
 
   render() {
     let nowD = new Date().getTime();
-    let gotD = new Date(2019, 3, 21, 18, 0, 0);
+    let gotD = new Date(2019, 3, 28, 18, 0, 0);
     let t = gotD - nowD;
     let days = Math.floor(t / (1000 * 60 * 60 * 24));
     let hours = Math.floor((t % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
@@ -30,7 +30,7 @@ export default class App extends React.Component {
     return (
       <div className="App">
         <br style={{ lineHeight: "5" }} />
-        <div className="title">alright y'all, episode 2 is coming</div>
+        <div className="title">alright y'all, episode 3 is coming</div>
         <br style={{ lineHeight: "3" }} />
         <a href="https://www.refinery29.com/en-us/2019/04/229889/is-bran-stark-night-king-theory-why-game-of-thrones">
           <img
@@ -50,7 +50,7 @@ export default class App extends React.Component {
           />
         </a>
         <br style={{ lineHeight: "5" }} />
-        <div className="season"> Season 8 Episode 2</div>
+        <div className="season"> Season 8 Episode 3</div>
         <div>
         { /* <img src="http://i.imgur.com/MAOay7V.png" height="90" /> */}
         {/*  <img src="https://i.imgur.com/NggooP0.png" height="90" /> */}
