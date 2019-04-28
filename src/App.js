@@ -54,7 +54,7 @@ export default class App extends React.Component {
         <div>
         { /* <img src="http://i.imgur.com/MAOay7V.png" height="90" /> */}
         {/*  <img src="https://i.imgur.com/NggooP0.png" height="90" /> */}
-          <span className="episode">"Episode Title TBA"</span>
+          <span className="episode">"The Battle of Winterfell"</span>
         {/*  <img src="http://i.imgur.com/AU1SENm.png" height="100" /> */}
         {/*  <img src="http://i.imgur.com/DSj7dEF.png" height="85" /> */}
         </div>
